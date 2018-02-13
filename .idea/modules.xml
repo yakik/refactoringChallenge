@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FowlerNew.iml" filepath="$PROJECT_DIR$/.idea/modules/FowlerNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FowlerNew_main.iml" filepath="$PROJECT_DIR$/.idea/modules/FowlerNew_main.iml" group="FowlerNew" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FowlerNew_test.iml" filepath="$PROJECT_DIR$/.idea/modules/FowlerNew_test.iml" group="FowlerNew" />
+    </modules>
+  </component>
+</project>

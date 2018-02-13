@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MockitoExamples" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-02-12T08:37:11" hostname="DESKTOP-BNB3C9I" time="0.597">
+  <properties/>
+  <testcase name="testMoreThanOneReturnValue" classname="MockitoExamples" time="0.509"/>
+  <testcase name="testReturnValueDependentOnMethodParameter" classname="MockitoExamples" time="0.048"/>
+  <testcase name="test1" classname="MockitoExamples" time="0.039"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
