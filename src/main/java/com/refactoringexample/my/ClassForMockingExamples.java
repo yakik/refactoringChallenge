@@ -1,6 +1,6 @@
 package com.refactoringexample.my;
 
-public class MyClass {
+public class ClassForMockingExamples { //for mocking examples
     private int uniqueId;
 
     public int getUniqueId() {

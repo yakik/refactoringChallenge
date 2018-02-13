@@ -1,4 +1,4 @@
-import com.refactoringexample.my.MyClass;
+import com.refactoringexample.my.ClassForMockingExamples;
 import org.junit.Test;
 
 import java.util.Iterator;
@@ -10,7 +10,7 @@ public class MockitoExamples {
     @Test
     public void test1() {
         //  create mock
-        MyClass test = mock(MyClass.class);
+        ClassForMockingExamples test = mock(ClassForMockingExamples.class);
 
         // define return value for method getUniqueId()
         when(test.getUniqueId()).thenReturn(43);
