@@ -7,10 +7,16 @@ public class A {
 
 
     private B myB;
+    private int x;
 
-    public A(B abc) {
+    public A(B abc, int x) {
         myB = abc;
+        this.x = x;
 
+    }
+
+    int dosomethingWithX(){
+        return x;
     }
 
     int doX() {
