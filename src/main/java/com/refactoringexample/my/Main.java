@@ -10,6 +10,11 @@ import org.apache.http.client.*;
 import org.apache.http.*;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.*;
+
+// Possible refactoring on A:
+//  Extract Delegate
+// Possible refactoring on B:
+//  Extract Interface
 public class Main {
 
     public static void main(String[] args) {
