@@ -3,7 +3,7 @@ import com.mongodb.ServerAddress;
 import com.mongodb.MongoClient;
 import com.mongodb.DB;
 
-public class A {
+public class A extends ASuper {
 
 
     private B myB;
@@ -28,6 +28,7 @@ public class A {
         return x;
     }
 
+    @Override
     int getFromStatic(){
         return getThisUnbelievableData();
     }
